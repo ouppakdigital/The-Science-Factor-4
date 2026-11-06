@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 7: Heat, light, and sound</b>]]></title>
+<title><![CDATA[<b>Shadow</b>]]></title>
+
+<rubric><![CDATA[<B>Drag the correct option to the missing part of the bridge.</B>]]></rubric>
+
+
+
+<question1>
+<text><![CDATA[<B>If the source of light is at the left of an object, the shadow will appear on the right.</B>]]></text>
+</question1>
+
+
+<question2>
+<text><![CDATA[<B>The position of a shadow depends on the position of the light source.</B>]]></text>
+</question2>
+
+<question3>
+<text><![CDATA[<B>A glass window is an example of an opaque object.</B>]]></text>
+</question3>
+
+<question4>
+<text><![CDATA[<B>Transparent objects form clear shadows because no light passes through them.</B>]]></text>
+</question4>
+
+
+<question5>
+<text><![CDATA[<B>A shadow is the absence of light, which is why shadows are always black.</B>]]></text>
+</question5>
+<option><![CDATA[<b>True</b>]]></option>
+<option><![CDATA[<b>False</b>]]></option>
+
+
+<feedback>
+<correct><![CDATA[That's right! Well done!]]></correct>
+<wrong1><![CDATA[Oh no! That's not correct.  Please try again.]]></wrong1>
+<wrong2><![CDATA[Err...That's not correct.]]></wrong2>
+<showanswer><![CDATA[This is the correct option.]]></showanswer>
+<rank1><![CDATA[You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Congratulations! You got the perfect score!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+</data>
+</framexml>  

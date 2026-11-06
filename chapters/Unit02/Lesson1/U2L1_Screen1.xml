@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<b>Food chain</b>]]></heading>
+<rubric><![CDATA[<b>Click on each image to know how energy passes from one organism to another.</b>]]></rubric>
+
+<text><![CDATA[Animals need energy so they can do all the things that they do.]]></text>
+<text><![CDATA[The source of all energy on Earth is the Sun.]]></text>
+<text><![CDATA[Energy from the Sun passes from one living thing to another through a <B>food chain</B>.]]></text>
+<text><![CDATA[A food chain tells us how energy is transferred from one organism to another through food.]]></text>
+<text><![CDATA[The Sun provides heat and light to all living things.]]></text>
+<text><![CDATA[Plants use sunlight, water, chlorophyll, and minerals from the ground to make their own energy. Plants are known as producers.]]></text>
+<text><![CDATA[Some animals get their energy directly by eating plants. They are known as primary consumers.]]></text>
+<text><![CDATA[Some animals get their energy from animals that eat plants. They are known as secondary consumers.]]></text>
+<text><![CDATA[Some animals get their energy by consuming secondary consumers. They are known as tertiary consumers.]]></text>
+<text><![CDATA[All producers and consumers after they die decompose to become nutrients that can be used by plants.]]></text>
+
+
+<lable><![CDATA[<B>energy</B>]]></lable>
+<lable><![CDATA[<B>producer</B>]]></lable>
+<lable><![CDATA[<B>primary consumer</B>]]></lable>
+<lable><![CDATA[<B>secondary consumer</B>]]></lable>
+<lable><![CDATA[<B>tertiary consumer </B>]]></lable>
+<lable><![CDATA[<B>decomposer</B>]]></lable>
+
+
+</data>
+</framexml>  

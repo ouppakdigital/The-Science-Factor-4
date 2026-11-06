@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 7: Force, work, and energy</b>]]></title>
+<title><![CDATA[<b>Shadows</b>]]></title>
+
+<rubric><![CDATA[<b>Now I feel better. It's cool in shade.</b>]]></rubric>
+<rubric><![CDATA[<b>Now click on the switch to see the shadow of the object on the screen.</b>]]></rubric>
+
+<lbl><![CDATA[<b>switch</b>]]></lbl>
+<lbl><![CDATA[<b>light source</b>]]></lbl>
+<lbl><![CDATA[<b>watering can</b>]]></lbl>
+<lbl><![CDATA[<b>shadow</b>]]></lbl>
+<lbl><![CDATA[<b>screen</b>]]></lbl>
+<lbl><![CDATA[<b>region that doesn't receive light</b>]]></lbl>
+
+
+
+
+<text><![CDATA[A shadow is created when light is blocked by an opaque object.]]></text>
+<text><![CDATA[<b>Three things are needed to form a shadow: </b>]]></text>
+<text><![CDATA[a light source]]></text>
+<text><![CDATA[an opaque or translucent object ]]></text>
+<text><![CDATA[a background to capture the shadow]]></text>
+
+
+
+
+</data>
+</framexml>  

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 9: Electricity and Magnetism</b>]]></title>
+<title><![CDATA[<b>Electricity</b>]]></title>
+
+<rubric><![CDATA[<B>First click on the objects that require attention. Next, click on the correct option for each question.</B>]]></rubric>
+
+
+
+<question1>
+<text><![CDATA[<B>Electrons orbit around the middle of the atom.</B>]]></text>
+</question1>
+
+
+<question2>
+<text><![CDATA[<B>Electricity is of two types: current and electric.</B>]]></text>
+</question2>
+
+<question3>
+<text><![CDATA[<B>The type of electricity in which electrons flow in the same direction is called static electricity.</B>]]></text>
+</question3>
+
+<question4>
+<text><![CDATA[<B>Electricity produced when two objects are rubbed together is called current electricity.</B>]]></text>
+</question4>
+
+
+<question5>
+<text><![CDATA[<B>Electricity travels at the same speed as the speed of sound.</B>]]></text>
+</question5>
+<option><![CDATA[<b>True</b>]]></option>
+<option><![CDATA[<b>False</b>]]></option>
+
+
+<feedback>
+<correct1><![CDATA[That's correct! Well done! You saved electricity.]]></correct1>
+<correct2><![CDATA[That's correct! Well done! You saved water.]]></correct2>
+<correct3><![CDATA[That's correct! Well done! You saved gas.]]></correct3>
+<wrong2><![CDATA[Oops! That's incorrect. ]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... I know you can do better, keep trying.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! You are awesome! You have saved a lot of electricity!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+</data>
+</framexml>  

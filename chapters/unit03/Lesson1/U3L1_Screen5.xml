@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>+
+
+
+<rubric><![CDATA[<b>Click the correct option for each of these statements.</b>]]></rubric>
+
+<question1>
+<text><![CDATA[1.]]></text>
+<text><![CDATA[Plants release it during the process of photosynthesis.]]></text>
+<option1><![CDATA[<b>carbon dioxide</b>]]></option1>
+<option2><![CDATA[<b>oxygen</b>]]></option2>
+<option3><![CDATA[<b>water</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question1>
+
+
+<question2>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[It provides the plant with energy during photosynthesis.]]></text>
+<option1><![CDATA[<b>sunlight</b>]]></option1>
+<option2><![CDATA[<b>water</b>]]></option2>
+<option3><![CDATA[<b>soil</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question2>
+
+<question3>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[It is that part of the plant where photosynthesis takes place.]]></text>
+<option1><![CDATA[<b>flowers</b>]]></option1>
+<option2><![CDATA[<b>roots</b>]]></option2>
+<option3><![CDATA[<b>leaves</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[It is produced in the leaves during the process of photosynthesis.]]></text>
+<option1><![CDATA[<b>energy</b>]]></option1>
+<option2><![CDATA[<b>light</b>]]></option2>
+<option3><![CDATA[<b>sugar</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[It is provided by the soil to the plant during photosynthesis.]]></text>
+<option1><![CDATA[<b>oxygen</b>]]></option1>
+<option2><![CDATA[<b>carbon dioxide</b>]]></option2>
+<option3><![CDATA[<b>minerals</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question5>
+
+<question6>
+<text><![CDATA[6.]]></text>
+<text><![CDATA[They are small holes on the underside of leaves.]]></text>
+<option1><![CDATA[<b>xylem</b>]]></option1>
+<option2><![CDATA[<b>phloem</b>]]></option2>
+<option3><![CDATA[<b>stomata</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question6>
+
+<question7>
+<text><![CDATA[7.]]></text>
+<text><![CDATA[Glucose is transported through these tubes from the leaves to other parts of the plant.]]></text>
+<option1><![CDATA[<b>xylem</b>]]></option1>
+<option2><![CDATA[<b>phloem</b>]]></option2>
+<option3><![CDATA[<b>stomata</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question7>
+
+<question8>
+<text><![CDATA[8.]]></text>
+<text><![CDATA[This is a process by which water evaporates through the leaves of plants.]]></text>
+<option1><![CDATA[<b>transpiration</b>]]></option1>
+<option2><![CDATA[<b>transportation</b>]]></option2>
+<option3><![CDATA[<b>fertilization</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question8>
+
+<question9>
+<text><![CDATA[9.]]></text>
+<text><![CDATA[This is a process by which water and minerals are sent to various parts of the plant.]]></text>
+<option1><![CDATA[<b>transpiration</b>]]></option1>
+<option2><![CDATA[<b>transportation</b>]]></option2>
+<option3><![CDATA[<b>photosynthesis</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question9>
+
+<question10>
+<text><![CDATA[10.]]></text>
+<text><![CDATA[These are strong and thick tubes which carry water and minerals from the roots to different parts of the plant.]]></text>
+<option1><![CDATA[<b>xylem</b>]]></option1>
+<option2><![CDATA[<b>phloem</b>]]></option2>
+<option3><![CDATA[<b>stomata</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question10>
+
+<feedback>
+<correct><![CDATA[That's correct! Well done! ]]></correct>
+<wrong1><![CDATA[Oh no! That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's wrong too.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+
+</data>
+</framexml>  

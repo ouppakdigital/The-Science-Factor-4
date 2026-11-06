@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 7: Heat, light, and sound</b>]]></title>
+<title><![CDATA[<b>Temperature</b>]]></title>
+
+<text><![CDATA[<b>Click the correct option to say whether these sentences are right or wrong.</b>]]></text>
+
+<text><![CDATA[1.]]></text>
+<text><![CDATA[The temperature at which water freezes is 0&#176;C. ]]></text>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[The Kelvin scale is used to measure extremely cold and extremely hot temperatures.]]></text>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[The two main scales for measuring temperature are Celsius and Fahrenheit.]]></text>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[On the Celsius scale, water freezes at 32&#176; and boils at 212&#176;.]]></text>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[The slower the molecules move, the higher is the temperature.]]></text>
+<text><![CDATA[<B>Right</B>]]></text>
+<text><![CDATA[<B>Wrong</B>]]></text>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong2><![CDATA[Oh no! That's not correct.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Congratulations! You got the perfect score!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+</data>
+</framexml>  

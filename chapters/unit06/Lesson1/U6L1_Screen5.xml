@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>+
+
+
+<rubric><![CDATA[<b>Click on the correct option for the statement.</b>]]></rubric>
+
+
+
+
+<question1>
+<text><![CDATA[<B>It orbits the nucleus of an atom.</B>]]></text>
+<option1><![CDATA[<b>neutron</b>]]></option1>
+<option2><![CDATA[<b>proton</b>]]></option2>
+<option3><![CDATA[<b>electron</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question1>
+
+
+<question2>
+<text><![CDATA[<B>It has a definite size and shape.</B>]]></text>
+<option1><![CDATA[<b>solid</b>]]></option1>
+<option2><![CDATA[<b>liquid</b>]]></option2>
+<option3><![CDATA[<b>gas</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question2>
+
+<question3>
+<text><![CDATA[<B>It is made up by two or more atoms. </B>]]></text>
+<option1><![CDATA[<b>nucleus</b>]]></option1>
+<option2><![CDATA[<b>molecule</b>]]></option2>
+<option3><![CDATA[<b>proton</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[<B>It is colourless and fills the container into which it is put.</B>]]></text>
+<option1><![CDATA[<b>solid</b>]]></option1>
+<option2><![CDATA[<b>liquid</b>]]></option2>
+<option3><![CDATA[<b>gas</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[<B>All matter is made of these tiny particles.</B>]]></text>
+<option1><![CDATA[<b>hydrogen</b>]]></option1>
+<option2><![CDATA[<b>oxygen</b>]]></option2>
+<option3><![CDATA[<b>atoms</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question5>
+
+
+<feedback>
+<correct><![CDATA[That's right! Well done! ]]></correct>
+<wrong1><![CDATA[Err...That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's wrong too. ]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+</data>
+</framexml>  

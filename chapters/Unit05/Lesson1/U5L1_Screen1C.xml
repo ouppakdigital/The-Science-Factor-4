@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+
+<heading><![CDATA[<b>Minerals</b>]]></heading>
+
+
+
+
+
+
+<lable><![CDATA[<B>oil</B>]]></lable>
+<lable><![CDATA[<B>gas</B>]]></lable>
+<lable><![CDATA[<B>coal</B>]]></lable>
+<lable><![CDATA[<B>gold</B>]]></lable>
+<lable><![CDATA[<B>silver</B>]]></lable>
+<lable><![CDATA[<B>salt</B>]]></lable>
+<lable><![CDATA[<B>building</B>]]></lable>
+<lable><![CDATA[<B>growing plants</B>]]></lable>
+<lable><![CDATA[<B>energy source</B>]]></lable>
+<lable><![CDATA[<B>making jewellery</B>]]></lable>
+
+</data>
+</framexml>  

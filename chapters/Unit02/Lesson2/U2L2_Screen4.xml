@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 4 : Plants</b>]]></titel>
+<titel><![CDATA[<b>Activity</b>]]></titel>
+
+<rubric><![CDATA[<b>Type the unscrambled word and click SUBMIT.</b>]]></rubric>
+
+
+<text><![CDATA[A  gas we need to survive]]></text>
+<text><![CDATA[To breathe]]></text>
+<text><![CDATA[Living things that produce oxygen]]></text>
+<text><![CDATA[They release carbon dioxide.]]></text>
+<text><![CDATA[The gas animals give plants in return for oxygen]]></text>
+
+
+
+<lable><![CDATA[<B>GXONEY</B>]]></lable>
+<lable><![CDATA[<B>PSIREER</B>]]></lable>
+<lable><![CDATA[<B>LASPTN</B>]]></lable>
+<lable><![CDATA[<B>MALINAS</B>]]></lable>
+<lable><![CDATA[<B>NABCOR XIDIDOE</B>]]></lable>
+
+
+<lable1><![CDATA[<B>OXYGEN</B>]]></lable1>
+<lable1><![CDATA[<B>RESPIRE</B>]]></lable1>
+<lable1><![CDATA[<B>PLANTs</B>]]></lable1>
+<lable1><![CDATA[<B>ANIMALS</B>]]></lable1>
+<lable1><![CDATA[<B>CARBON DIOXIDE</B>]]></lable1>
+
+
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong1><![CDATA[Oh no! That's not correct, Please try again.]]></wrong1>
+<wrong2><![CDATA[Oh no! That's not correct, Please try again.]]></wrong2>
+<showanswer><![CDATA[This is the correct option.]]></showanswer>
+<rank1><![CDATA[You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+</data>
+</framexml>  

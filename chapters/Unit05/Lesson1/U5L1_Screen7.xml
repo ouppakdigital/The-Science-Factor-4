@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>+
+
+
+<rubric><![CDATA[<b>Click on the correct option for each question.</b>]]></rubric>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!!]]></correct>
+<wrong1><![CDATA[Oh no! That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oops..... That's incorrect too.]]></wrong2>
+<showanswer><![CDATA[This is the correct option.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was awesome!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+<question1>
+<text><![CDATA[<B>We should conserve the natural resources for the __________ generation.</B>]]></text>
+<option1><![CDATA[<b>past</b>]]></option1>
+<option2><![CDATA[<b>present</b>]]></option2>
+<option3><![CDATA[<b>future</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question1>
+
+
+<question2>
+<text><![CDATA[<B>Which of the following is a renewable resource?</B>]]></text>
+<option1><![CDATA[<b>Oil</b>]]></option1>
+<option2><![CDATA[<b>wood</b>]]></option2>
+<option3><![CDATA[<b>coal</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question2>
+
+<question3>
+<text><![CDATA[<B>Which of the following is a non-renewable resource?</B>]]></text>
+<option1><![CDATA[<b>water</b>]]></option1>
+<option2><![CDATA[<b>wind</b>]]></option2>
+<option3><![CDATA[<b>gold</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[<B>Which of the following is a man-made resource?</B>]]></text>
+<option1><![CDATA[<b>trees</b>]]></option1>
+<option2><![CDATA[<b>gold</b>]]></option2>
+<option3><![CDATA[<b>plastic</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[<B>Turbines are used to make energy from the __________.</B>]]></text>
+<option1><![CDATA[<b>Sun</b>]]></option1>
+<option2><![CDATA[<b>wind</b>]]></option2>
+<option3><![CDATA[<b>trees</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question5>
+
+
+</data>
+</framexml>  

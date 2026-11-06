@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 9: Electricity and magnetism</b>]]></titel>
+<titel><![CDATA[<b>Magnetism and its uses</b>]]></titel>
+
+<heading><![CDATA[<b>Static electricity</b>]]></heading>
+
+
+<label><![CDATA[<b>electrostatic generator</b>]]></label>
+<text><![CDATA[Electricity caused by rubbing two objects together is called <b>static electricity</b>.]]></text>
+<text><![CDATA[Friction causes the electrons to jump from one object to the other.]]></text>
+
+
+</data>
+</framexml>  

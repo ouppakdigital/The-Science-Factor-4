@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<b>Photosynthesis</b>]]></heading>
+<rubric><![CDATA[<b>Click on the image to know more about photosynthesis.</b>]]></rubric>
+
+<text><![CDATA[The process by which plants produce food is called <B>photosynthesis</B>.]]></text>
+<text><![CDATA[Photosynthesis takes place in the leaves of a plant. ]]></text>
+<text><![CDATA[Leaves contain <b>chlorophyll</b>, which gives them the green colour.]]></text>
+<text><![CDATA[Chlorophyll in the leaves converts light from the Sun into energy.]]></text>
+<text><![CDATA[The plant receives water and minerals from the soil.]]></text>
+<text><![CDATA[The plant receives carbon dioxide from the air.]]></text>
+<text><![CDATA[When the energy received from the Sun is combined with carbon dioxide, water, chlorophyll, and minerals food is produced in the leaves in the form of a sugar called glucose.]]></text>
+<text><![CDATA[Food produced in the leaves helps the plant to grow and produce flowers and seeds, which in turn give birth to new plants.]]></text>
+<text><![CDATA[During the process of photosynthesis, plants release oxygen into the air.]]></text>
+					
+<lable><![CDATA[<B><I>Photo</I>: light</B>]]></lable>
+<lable><![CDATA[<B><I>Synthesis</I>: putting together</B>]]></lable>
+<lable><![CDATA[<B>chlorophyll</B>]]></lable>
+<lable><![CDATA[<B>photosynthesis</B>]]></lable>
+
+<lable><![CDATA[<B>water</B>]]></lable>
+<lable><![CDATA[<B>soil</B>]]></lable>
+<lable><![CDATA[<B>glucose</B>]]></lable>
+<lable><![CDATA[<B>oxygen </B>]]></lable>
+<lable><![CDATA[<B>sunlight</B>]]></lable>
+<lable><![CDATA[<B>carbon dioxide</B>]]></lable>
+
+<lable><![CDATA[<B>chlorophyll</B>]]></lable>
+<lable><![CDATA[<B>sunlight</B>]]></lable>
+<lable><![CDATA[<B>water</B>]]></lable>
+<lable><![CDATA[<B>carbon dioxide</B>]]></lable>
+
+<!-- New labels -->
+<lableN><![CDATA[<B>minerals</B>]]></lableN>
+<lableN><![CDATA[<B>Transpiration</B>]]></lableN>
+<lableN><![CDATA[<B>Transportation</B>]]></lableN>
+<lableN><![CDATA[<B>Reproduction</B>]]></lableN>
+</data>
+</framexml>  

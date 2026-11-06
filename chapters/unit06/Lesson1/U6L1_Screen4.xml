@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<B>Unit 6 : Matter and materials</B>]]></title>
+<title><![CDATA[<B>Atoms and molecules</B>]]></title>
+
+<text><![CDATA[<b>Click on either True or False for the following sentences.</b>]]></text>
+
+<text><![CDATA[1.]]></text>
+<text><![CDATA[It is possible to change matter from one form to another.]]></text>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[Liquids can be turned into solid by boiling them.]]></text>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[Some solids can be melted into liquids by heating.]]></text>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[When a liquid is boiled, its molecules starts moving closer to each other.]]></text>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[Molecules in a solid can move freely and quickly.]]></text>
+<text><![CDATA[<B>True</B>]]></text>
+<text><![CDATA[<B>False</B>]]></text>
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong2><![CDATA[Oh no! That's not correct.]]></wrong2>
+<showanswer><![CDATA[The correct answer is:]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Fantastic!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+</data>
+</framexml>  

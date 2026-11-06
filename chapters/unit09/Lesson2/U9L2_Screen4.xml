@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 9: Electricity and Magnetism</b>]]></title>
+<title><![CDATA[<b>Magnetism</b>]]></title>
+
+<rubric><![CDATA[<B>Click the correct option to say whether these statements are True or False.</B>]]></rubric>
+
+
+
+<question1>
+<text><![CDATA[<B>Like poles of a magnet attract each other.</B>]]></text>
+</question1>
+
+
+<question2>
+<text><![CDATA[<B>Magnetic fields are very strong around the poles.</B>]]></text>
+</question2>
+
+<question3>
+<text><![CDATA[<B>A magnetic field is a visible area around a magnet.</B>]]></text>
+</question3>
+
+<question4>
+<text><![CDATA[<B>In an electromagnet, when the current is turned off, the magnet still works.</B>]]></text>
+</question4>
+
+
+<question5>
+<text><![CDATA[<B>Electromagnets work through a combination of electricity and magnetism.</B>]]></text>
+</question5>
+<option><![CDATA[<b>True</b>]]></option>
+<option><![CDATA[<b>False</b>]]></option>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done! ]]></correct>
+<wrong2><![CDATA[Err... That's incorrect.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... I am sure you can do much better next time.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was brilliant indeed!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+</data>
+</framexml>  

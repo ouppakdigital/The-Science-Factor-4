@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<b>Fertilization</b>]]></heading>
+<rubric><![CDATA[<b>To know more about the different parts of a flower, click on the flower.</b>]]></rubric>
+
+<text><![CDATA[Reproduction in plants involves fertilization. Most plants contain both male and female parts.]]></text>
+<text><![CDATA[To know more about the different parts of a flower, click on the flower.]]></text>
+
+<lable><![CDATA[<B>sepal</B>]]></lable>
+<lable><![CDATA[<B>petal</B>]]></lable>
+<lable><![CDATA[<B>anther</B>]]></lable>
+<lable><![CDATA[<B>stigma</B>]]></lable>
+<lable><![CDATA[<B>filament</B>]]></lable>
+<lable><![CDATA[<B>ovary</B>]]></lable>
+<lable><![CDATA[<B>stamen</B>]]></lable>
+<lable><![CDATA[<B>pistil</B>]]></lable>
+<lableN><![CDATA[<B>style</B>]]></lableN>
+
+</data>
+</framexml>  

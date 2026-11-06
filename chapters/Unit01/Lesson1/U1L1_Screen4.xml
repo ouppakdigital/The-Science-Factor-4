@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>+
+
+
+<rubric><![CDATA[<b>Click on the correct option to answer each question.</b>]]></rubric>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Good job!]]></correct>
+<wrong1><![CDATA[Oops! That's incorrect. Try again.]]></wrong1>
+<wrong2><![CDATA[Oops... That's incorrect too.]]></wrong2>
+<showanswer><![CDATA[This is the correct option.]]></showanswer>
+<rank1><![CDATA[You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[That was great!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+<question1>
+<text><![CDATA[<B>Which is the largest part of the brain?</B>]]></text>
+<option1><![CDATA[<b>cerebellum</b>]]></option1>
+<option2><![CDATA[<b>cerebrum</b>]]></option2>
+<option3><![CDATA[<b>brain stem</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question1>
+
+
+<question2>
+<text><![CDATA[<B>Which muscle of the body helps our lungs to take in air?</B>]]></text>
+<option1><![CDATA[<b>heart</b>]]></option1>
+<option2><![CDATA[<b>brain stem</b>]]></option2>
+<option3><![CDATA[<b>diaphragm</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question2>
+
+<question3>
+<text><![CDATA[<B>Which of these organs need to keep working while you are asleep?</B>]]></text>
+<option1><![CDATA[<b>heart</b>]]></option1>
+<option2><![CDATA[<b>eyes</b>]]></option2>
+<option3><![CDATA[<b>ears</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[<B>Which lobe of the brain processes what we see?</B>]]></text>
+<option1><![CDATA[<b>temporal lobe</b>]]></option1>
+<option2><![CDATA[<b>parietal lobe</b>]]></option2>
+<option3><![CDATA[<b>occipital lobe</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[<B>Which lung is smaller?</B>]]></text>
+<option1><![CDATA[<b>right lung</b>]]></option1>
+<option2><![CDATA[<b>left lung</b>]]></option2>
+<option3><![CDATA[<b>neither</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question5>
+
+
+
+
+
+</data>
+</framexml>  

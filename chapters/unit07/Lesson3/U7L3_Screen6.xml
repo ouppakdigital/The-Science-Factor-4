@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 7: Heat, light, and sound</b>]]></title>
+<title><![CDATA[<b>Temperature</b>]]></title>
+
+<rubric><![CDATA[<B>Click on the correct option for each of these statements.</B>]]></rubric>
+
+
+
+<question1>
+<text><![CDATA[<B>Sound waves are measured by their _________.</B>]]></text>
+<option1><![CDATA[<b>intensity</b>]]></option1>
+<option2><![CDATA[<b>length</b>]]></option2>
+<option3><![CDATA[<b>breadth</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question1>
+
+
+<question2>
+<text><![CDATA[<B>The softness or the loudness of sound is known as its ___________.</B>]]></text>
+<option1><![CDATA[<b>frequency</b>]]></option1>
+<option2><![CDATA[<b>noise</b>]]></option2>
+<option3><![CDATA[<b>intensity</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question2>
+
+<question3>
+<text><![CDATA[<B>The intensity of sound is measured in ________.</B>]]></text>
+<option1><![CDATA[<b>decibels</b>]]></option1>
+<option2><![CDATA[<b>hertz</b>]]></option2>
+<option3><![CDATA[<b>metres</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[<B>Sound travels through water _______ times faster than it travels through air.</B>]]></text>
+<option1><![CDATA[<b>two</b>]]></option1>
+<option2><![CDATA[<b>three</b>]]></option2>
+<option3><![CDATA[<b>four</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[<B>Frequency is the number of waves produced in a ________.</B>]]></text>
+<option1><![CDATA[<b>second</b>]]></option1>
+<option2><![CDATA[<b>minute</b>]]></option2>
+<option3><![CDATA[<b>hour</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question5>
+
+
+<feedback>
+<correct><![CDATA[That’s right! Well done!]]></correct>
+<wrong1><![CDATA[No, that’s not the right answer. Try again!]]></wrong1>
+<wrong2><![CDATA[Oops! That’s incorrect again.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer!]]></showanswer>
+<rank1><![CDATA[You can do better than this.]]></rank1>
+<rank2><![CDATA[Good work!]]></rank2>
+<rank3><![CDATA[Amazing performance!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+</data>
+</framexml>  

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<B>Unit 8: Force, tools, and machines</B>]]></title>
+<title><![CDATA[<B>Types of force</B>]]></title>
+
+<text><![CDATA[<b>Click the right option to say whether these sentences are right or wrong. </b>]]></text>
+
+<text><![CDATA[1.]]></text>
+<text><![CDATA[A force is a push or a pull.]]></text>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[Buoyancy is a force that works in water.]]></text>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[Friction is the force that keeps us on Earth.]]></text>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[The most powerful force of gravity on Earth comes from the Earth itself.]]></text>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[Rough or bumpy surfaces have less friction than smooth or greasy surfaces.]]></text>
+<text><![CDATA[<B>Right</B>]]></text>
+<text><![CDATA[<B>Wrong</B>]]></text>
+
+<feedback>
+<correct><![CDATA[Absolutely! Well done!]]></correct>
+<wrong2><![CDATA[No, that isn't right.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[I'm sure you can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Excellent performance! Congratulations!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+</data>
+</framexml>  

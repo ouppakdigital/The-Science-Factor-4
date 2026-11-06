@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<rubric><![CDATA[<b>Drag and drop the images and labels correctly in the blank spaces. Then click SUBMIT.</b>]]></rubric>
+
+
+
+<lable><![CDATA[<B>decomposer</B>]]></lable>
+<lable><![CDATA[<B>secondary consumer</B>]]></lable>
+<lable><![CDATA[<B>producer</B>]]></lable>
+<lable><![CDATA[<B>tertiary consumer </B>]]></lable>
+<lable><![CDATA[<B>primary consumer</B>]]></lable>
+<lable><![CDATA[<B>Sun</B>]]></lable>
+
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong1><![CDATA[You can do much better next time. Try again.]]></wrong1>
+<wrong2><![CDATA[Oops…, you've missed these.]]></wrong2>
+<showanswer><![CDATA[This is the correct order.]]></showanswer>
+<rank3><![CDATA[Marvellous! You did it!]]></rank3>
+<Score><![CDATA[Your Score:]]></Score>
+<rank1><![CDATA[Hmm... You can do better than this. ]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+
+
+
+
+</data>
+</framexml>  

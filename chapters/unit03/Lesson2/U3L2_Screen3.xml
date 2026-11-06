@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<text><![CDATA[Fertilization occurs when a bird, insect, or the wind transfers a pollen grain from the anther of one plant to the stigma of another plant.]]></text>
+<text><![CDATA[When the pollen grain lands on the stigma it germinates in the pistil and forms a pollen tube. The pollen tube extends to the ovary where it fertilizes the ovule. The fertilized ovule becomes the seed.]]></text>
+<text><![CDATA[The ovary is part of the female reproductive system and contains ovules.]]></text>
+
+<lable><![CDATA[<B>pollen</B>]]></lable>
+<lable><![CDATA[<B>sepal</B>]]></lable>
+<lable><![CDATA[<B>petal</B>]]></lable>
+<lable><![CDATA[<B>stamen</B>]]></lable>
+<lable><![CDATA[<B>stigma</B>]]></lable>
+<lable><![CDATA[<B>style</B>]]></lable>
+<lable><![CDATA[<B>ovary</B>]]></lable>
+<lable><![CDATA[<B>Pistil</B>]]></lable>
+
+</data>
+</framexml>  

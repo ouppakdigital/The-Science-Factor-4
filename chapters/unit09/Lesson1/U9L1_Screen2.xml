@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 9: Electricity and magnetism</b>]]></titel>
+<titel><![CDATA[<b>Magnetism and its uses</b>]]></titel>
+
+<heading><![CDATA[<b>Uses of electricity</b>]]></heading>
+
+
+<lbl><![CDATA[<b>fridge</b>]]></lbl>
+<lbl><![CDATA[<b>TV</b>]]></lbl>
+<lbl><![CDATA[<b>microwave oven</b>]]></lbl>
+<lbl><![CDATA[<b>fan</b>]]></lbl>
+<lbl><![CDATA[<b>iron</b>]]></lbl>
+<lbl><![CDATA[<b>table lamp</b>]]></lbl>
+
+
+
+<label><![CDATA[<b>household appliances</b>]]></label>
+<label><![CDATA[<b>computer lab in school</b>]]></label>
+<label><![CDATA[computer and printers in office]]></label>
+<label><![CDATA[conveyor belt in a factory]]></label>
+<label><![CDATA[escalator in a shopping mall]]></label>
+<label><![CDATA[electric car]]></label>
+
+
+
+<text><![CDATA[Electricity travels at the speed of light which is 299,792 metres per second.]]></text>
+<text><![CDATA[Humans only worked out how to make and use electricity about 150 years ago.]]></text>
+<text><![CDATA[electrical household appliances]]></text>
+<text><![CDATA[computer lab in school]]></text>
+<text><![CDATA[computer and printers in office]]></text>
+<text><![CDATA[conveyor belt in a factory]]></text>
+<text><![CDATA[escalator in a shopping mall]]></text>
+<text><![CDATA[electric car]]></text>
+
+</data>
+</framexml>  

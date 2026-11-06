@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 4 : Plants</b>]]></titel>
+<titel><![CDATA[<b>Activity</b>]]></titel>
+
+<rubric><![CDATA[<b>Put the labels in the correct place in the diagram.</b>]]></rubric>
+
+<text><![CDATA[The]]></text>
+
+<lable><![CDATA[<B>sepal</B>]]></lable>
+<lable><![CDATA[<B>petal</B>]]></lable>
+<lable><![CDATA[<B>anther</B>]]></lable>
+<lable><![CDATA[<B>stigma</B>]]></lable>
+<lable><![CDATA[<B>filament</B>]]></lable>
+<lable><![CDATA[<B>ovary</B>]]></lable>
+<lable><![CDATA[<B>pistil</B>]]></lable>
+<lable><![CDATA[<B>stamen</B>]]></lable>
+<lable><![CDATA[<B>style</B>]]></lable>
+
+<feedback>
+<correct><![CDATA[That's correct! Good work!]]></correct>
+<wrong1><![CDATA[Oh no! That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's wrong too.]]></wrong2>
+<showanswer><![CDATA[This is the correct option.]]></showanswer>
+<rank1><![CDATA[You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[You are one smart kid!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+</data>
+</framexml>  

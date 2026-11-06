@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<B>Intestines</B>]]></heading>
+<rubric><![CDATA[The]]></rubric>
+
+
+<text><![CDATA[The intestines are part of the digestive system of the body.]]></text>
+<text><![CDATA[The intestines help digest the food that you eat. They also help remove the waste material from your body.]]></text>
+<text><![CDATA[The intestines are like a long coiled up tube that fits in your abdomen.]]></text>
+<text><![CDATA[In an adult, the small intestine is 6 meters long while the large intestine is 1 meter long.]]></text>
+<text><![CDATA[The intestines receive food from the stomach and absorb all the nutrients into the bloodstream.]]></text>
+<text><![CDATA[They then transport the waste material to the anus, from where it leaves the body.]]></text>
+
+<lable><![CDATA[<B>small intestine</B>]]></lable>
+<lable><![CDATA[<B>stomach</B>]]></lable>
+<lable><![CDATA[<B>anus</B>]]></lable>
+<lable><![CDATA[<B>rectum</B>]]></lable>
+<lable><![CDATA[<B>large intestine</B>]]></lable>
+
+</data>
+</framexml>  

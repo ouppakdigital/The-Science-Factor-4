@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<b>Photosynthesis</b>]]></heading>
+<rubric><![CDATA[<b>Click on the image to know more about photosynthesis.</b>]]></rubric>
+
+<text><![CDATA[Transpiration is the process by which water evaporates from plants.]]></text>
+<text><![CDATA[The underside of leaves have tiny holes called stomata. These stomata open up during the process of photosynthesis and water evaporates through them.]]></text>
+<lable><![CDATA[<b>pore open</b>]]></lable>
+<lable><![CDATA[<b>open stoma</b>]]></lable>
+
+<lableN><![CDATA[<b>Transpiration</b>]]></lableN>
+
+</data>
+</framexml>  

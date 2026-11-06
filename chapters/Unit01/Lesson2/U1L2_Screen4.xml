@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<rubric><![CDATA[<b>Drag and drop the correct word in the blank space. </b>]]></rubric>
+
+<text><![CDATA[1.]]></text>
+<text><![CDATA[Muscles work by _________________ and relaxing.]]></text>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[Muscles that are attached to the _________________ give you strength.]]></text>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[In adults, the _________________ is one metre long.]]></text>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[The intestines are also known as _________________.]]></text>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[In adults, the _________________ is six metres long.]]></text>
+
+<Drag><![CDATA[<B>contracting</B>]]></Drag>
+<Drag><![CDATA[<B>bones</B>]]></Drag>
+<Drag><![CDATA[<B>large intestine</B>]]></Drag>
+<Drag><![CDATA[<B>bowels</B>]]></Drag>
+<Drag><![CDATA[<B>small intestine</B>]]></Drag>
+
+
+<answer><![CDATA[<B>contracting</B>]]></answer>
+<answer><![CDATA[<B>bones</B>]]></answer>
+<answer><![CDATA[<B>large intestine</B>]]></answer>
+<answer><![CDATA[<B>bowels</B>]]></answer>
+<answer><![CDATA[<B>small intestine</B>]]></answer>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong1><![CDATA[Oops! That's incorrect. Try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's wrong too.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[That was marvellous!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+</data>
+</framexml>  

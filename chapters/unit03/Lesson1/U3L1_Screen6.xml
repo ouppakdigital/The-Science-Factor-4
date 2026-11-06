@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 4 : Plants</b>]]></titel>
+<titel><![CDATA[<b>Activity</b>]]></titel>
+
+<rubric><![CDATA[<b>Drag the correct element to the correct spots around the plant.</b>]]></rubric>
+
+<lbl><![CDATA[sunlight]]></lbl>
+<lbl><![CDATA[carbon dioxide]]></lbl>
+<lbl><![CDATA[oxygen]]></lbl>
+<lbl><![CDATA[minerals]]></lbl>
+<lbl><![CDATA[glucose]]></lbl>
+<lbl><![CDATA[water]]></lbl>
+
+<opt><![CDATA[<b>CO²</b>]]></opt>
+<opt><![CDATA[<b>O<FONT FACE="GG Subscript">2</FONT></b>]]></opt>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong1><![CDATA[Oh no! That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oh no! That's not correct. Please try again.]]></wrong2>
+<showanswer><![CDATA[This is the correct option.]]></showanswer>
+<rank1><![CDATA[You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! You are a brilliant student!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+</data>
+</framexml> 

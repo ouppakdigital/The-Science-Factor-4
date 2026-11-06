@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<rubric><![CDATA[<b>Drag and drop the correct word in the blank space.</b>]]></rubric>
+
+<text><![CDATA[1.]]></text>
+<text><![CDATA[Living things must ________________ to their surroundings in order to survive.]]></text>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[The colour of the polar bear's fur helps it to hide from ________________.]]></text>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[One reason for movement in animals is to find ________________.]]></text>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[In the life cycle of a frog ________________ hatch from eggs.]]></text>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[Living things produce their young through a process called ________________ .]]></text>
+
+<Drag><![CDATA[<B>adapt</B>]]></Drag>
+<Drag><![CDATA[<B>predators</B>]]></Drag>
+<Drag><![CDATA[<B>shelter</B>]]></Drag>
+<Drag><![CDATA[<B>tadpoles</B>]]></Drag>
+<Drag><![CDATA[<B>reproduction</B>]]></Drag>
+
+<answer><![CDATA[<B>adapt</B>]]></answer>
+<answer><![CDATA[<B>predators</B>]]></answer>
+<answer><![CDATA[<B>shelter</B>]]></answer>
+<answer><![CDATA[<B>tadpoles</B>]]></answer>
+<answer><![CDATA[<B>reproduction</B>]]></answer>
+
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong1><![CDATA[Oops! That's incorrect. Try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's wrong too.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was indeed superb!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+</data>
+</framexml>  

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 7: Heat, light, and sound</b>]]></title>
+<title><![CDATA[<b>Temperature</b>]]></title>
+
+
+<rubric><![CDATA[Celsius]]></rubric>
+<rubric><![CDATA[Fahrenheit]]></rubric>
+<rubric><![CDATA[<b>Click on the water to see the temperature rise in the thermometers.</b>]]></rubric>
+<rubric><![CDATA[The boiling point of water]]></rubric>
+<rubric><![CDATA[The freezing point of water]]></rubric>
+
+
+<text><![CDATA[Heat is measured by temperature.]]></text>
+<text><![CDATA[A thermometer is used for measuring temperature.]]></text>
+<text><![CDATA[There are two main scales for measuring temperature: Celsius and Fahrenheit. ]]></text>
+<text><![CDATA[The third scale used for measuring temperature is the Kelvin scale.]]></text>
+<text><![CDATA[The Kelvin scale is used for measuring extremely cold and extremely hot temperatures.]]></text>
+
+
+</data>
+</framexml>  

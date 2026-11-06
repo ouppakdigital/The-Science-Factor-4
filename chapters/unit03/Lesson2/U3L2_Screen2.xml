@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<text><![CDATA[The role of the sepal is to protect the bud before it blooms into a flower.]]></text>
+<text><![CDATA[The petals are the brightest part of the flower.]]></text>
+<text><![CDATA[Petals attract insects towards the flower.]]></text>
+<text><![CDATA[The male parts of the flower are the anther and the filament. Together they make up the stamen.]]></text>
+<text><![CDATA[The anther is covered in pollen.]]></text>
+<text><![CDATA[The female part of the plant is called the pistil.]]></text>
+<text><![CDATA[Petals attract the insects towards the plant.]]></text>
+<text><![CDATA[male parts: stamen anthers filament.]]></text>
+
+<lable><![CDATA[<B>sepal</B>]]></lable>
+<lable><![CDATA[<B>anther</B>]]></lable>
+<lable><![CDATA[<B>filament</B>]]></lable>
+<lable><![CDATA[<B>pollen</B>]]></lable>
+<lable><![CDATA[<B>stigma</B>]]></lable>
+<lable><![CDATA[<B>style</B>]]></lable>
+<lable><![CDATA[<B>ovary</B>]]></lable>
+<lable><![CDATA[<B>petal</B>]]></lable>
+<lable><![CDATA[<B>pistil</B>]]></lable>
+<lable><![CDATA[<B>stamen</B>]]></lable>
+
+</data>
+</framexml>  

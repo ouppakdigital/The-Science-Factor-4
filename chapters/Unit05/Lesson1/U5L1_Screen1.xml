@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<b>Resource</b>]]></heading>
+<heading><![CDATA[<b>Natural resources</b>]]></heading>
+<heading><![CDATA[<b>Water</b>]]></heading>
+<heading><![CDATA[<b>Trees and plants</b>]]></heading>
+<heading><![CDATA[<b>Minerals</b>]]></heading>
+<heading><![CDATA[<b>Photosynthesis</b>]]></heading>
+
+<rubric><![CDATA[<b>Click on a highlighted box to know more about that natural resource. </b>]]></rubric>
+
+<text><![CDATA[The word 'resource' means something that can be used. ]]></text>
+<text><![CDATA[Natural resources are useful things that grow or occur naturally.]]></text>
+
+<lable><![CDATA[<B>Major natural resources</B>]]></lable>
+<lable><![CDATA[<B>Water</B>]]></lable>
+<lable><![CDATA[<B>Plants and trees</B>]]></lable>
+<lable><![CDATA[<B>Minerals</B>]]></lable>
+<lable><![CDATA[<B>Drinking</B>]]></lable>
+<lable><![CDATA[<B>Washing</B>]]></lable>
+<lable><![CDATA[<B>Transport</B>]]></lable>
+<lable><![CDATA[<B>Building</B>]]></lable>
+<lable><![CDATA[<B>Food</B>]]></lable>
+<lable><![CDATA[<B>Medicine</B>]]></lable>
+<lable><![CDATA[<B>Clothing</B>]]></lable>
+<lable><![CDATA[<B>Decoration</B>]]></lable>
+<lable><![CDATA[<B>Oil</B>]]></lable>
+<lable><![CDATA[<B>Gas</B>]]></lable>
+<lable><![CDATA[<B>Coal</B>]]></lable>
+<lable><![CDATA[<B>Gold</B>]]></lable>
+<lable><![CDATA[<B>Silver</B>]]></lable>
+<lable><![CDATA[<B>Salt</B>]]></lable>
+<lable><![CDATA[<B>Growing plants</B>]]></lable>
+<lable><![CDATA[<B>Energy source</B>]]></lable>
+
+</data>
+</framexml>  

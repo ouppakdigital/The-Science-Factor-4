@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 9: Electricity and magnetism</b>]]></title>
+<title><![CDATA[<b>Magnetism</b>]]></title>
+
+<heading><![CDATA[<b>Magnetism</b>]]></heading>
+<heading><![CDATA[<b>Electromagnets</b>]]></heading>
+
+<rubric><![CDATA[<b>opposite poles attract</b>]]></rubric>
+<rubric><![CDATA[<b>same poles repel</b>]]></rubric>
+<rubric><![CDATA[<b>current</b>]]></rubric>
+<rubric><![CDATA[<b>magnetic field</b>]]></rubric>
+<rubric><![CDATA[<b>simple electromagnet</b>]]></rubric>
+<rubric><![CDATA[<b>hair dryer</b>]]></rubric>
+<rubric><![CDATA[<b>television</b>]]></rubric>
+
+<text><![CDATA[Magnets are objects that produce an area of magnetic force called a magnetic field.]]></text>
+<text><![CDATA[Magnetism is a force which involves objects attracting or repelling one another.]]></text>
+<text><![CDATA[A magnetic field is an invisible area around a magnet which has magnetic power.]]></text>
+<text><![CDATA[Magnetic iron filings near the poles are attracted by the magnet's magnetic field.]]></text>
+<text><![CDATA[Magnetic fields are very strong around the poles. They are weakest towards the middle of the magnet.]]></text>
+<text><![CDATA[Electromagnets are magnets that work through a combination of electricity and magnetism. This force is known as <b>electromagnetism</b>.]]></text>
+<text><![CDATA[Electromagnetism involves an electric current passing through materials with magnetic properties.]]></text>
+<text><![CDATA[When the current is turned on, the magnet works, when the current is turned off, the magnet stops working.]]></text>
+<text><![CDATA[Magnets always have magnetic force and a magnetic field.]]></text>
+<text><![CDATA[The main benefit of electromagnets is that the power is only generated when it is needed.]]></text>
+
+
+</data>
+</framexml>  

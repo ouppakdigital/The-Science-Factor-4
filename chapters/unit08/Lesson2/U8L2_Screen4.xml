@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<B>Unit 8: Force, tools, and machines</B>]]></title>
+<title><![CDATA[<B>Simple machines</B>]]></title>
+
+<rubric><![CDATA[<B>Click on the correct image for each question.</B>]]></rubric>
+<lbl><![CDATA[<B>wedge</B>]]></lbl>
+<lbl><![CDATA[<B>inclined plane</B>]]></lbl>
+<lbl><![CDATA[<B>pulley</B>]]></lbl>
+<lbl><![CDATA[<B>lever</B>]]></lbl>
+<lbl><![CDATA[<B>screw</B>]]></lbl>
+<lbl><![CDATA[<B>wheel and axle</B>]]></lbl>
+
+<text><![CDATA[<B>My master wants me to chop some wood. Which machine should I use?</B>]]></text>
+<text><![CDATA[<B>The master wants me to load this crate into the truck. Which machine should I use?</B>]]></text>
+<text><![CDATA[<B>My master wants me to lift this barrel. What machine should I use?</B>]]></text>
+<text><![CDATA[<B>My master wants me to lift this large stone. What machine should I use?</B>]]></text>
+<text><![CDATA[<B>My master wants me to  fix this broken table. Which machine should I use?</B>]]></text>
+<text><![CDATA[<B>My master wants me to take this heavy steel trunk inside. Which machine should I use?</B>]]></text>
+
+
+<feedback>
+<correct><![CDATA[That's right! This is the machine Jojo needs to do the job! Thank you!]]></correct>
+<wrong1><![CDATA[Oh no... That's not correct. Jojo can't use this machine here.Try again.]]></wrong1>
+<wrong2><![CDATA[Oops….. That's wrong again. Jojo is malfunctioning!]]></wrong2>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[That's amazing. You're awesome!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+</data>
+</framexml>  

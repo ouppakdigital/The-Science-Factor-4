@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+
+<rubric><![CDATA[<b>Click the correct option for each of these statements.</b>]]></rubric>
+
+
+
+
+
+<question1>
+<text><![CDATA[1.]]></text>
+<text><![CDATA[I am part of your body's nervous system. What am I?]]></text>
+<option1><![CDATA[<b>brain</b>]]></option1>
+<option2><![CDATA[<b>heart</b>]]></option2>
+<option3><![CDATA[<b>lungs</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question1>
+
+
+
+
+
+
+<question2>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[I am the part of your brain that controls balance and movement. What am I?]]></text>
+<option1><![CDATA[<b>cerebrum</b>]]></option1>
+<option2><![CDATA[<b>cerebellum</b>]]></option2>
+<option3><![CDATA[<b>brain stem</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question2>
+
+
+
+
+<question3>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[I am the part of your brain that processes what you see. What am I?]]></text>
+<option1><![CDATA[<b>frontal lobe</b>]]></option1>
+<option2><![CDATA[<b>parietal lobe</b>]]></option2>
+<option3><![CDATA[<b>occipital lobe</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[I am one of your very important organs. I am the size of your fist. What am I?]]></text>
+<option1><![CDATA[<b>brain</b>]]></option1>
+<option2><![CDATA[<b>heart</b>]]></option2>
+<option3><![CDATA[<b>lungs</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[The diaphragm in your body helps your lungs to take me in. What am I?]]></text>
+<option1><![CDATA[<b>blood</b>]]></option1>
+<option2><![CDATA[<b>water</b>]]></option2>
+<option3><![CDATA[<b>air</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question5>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong1><![CDATA[Er...no, this is not the correct answer. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's incorrect.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[That was superb!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+
+</feedback>
+
+
+
+</data>
+</framexml>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>+
+
+
+<rubric><![CDATA[<b>Click on the correct option to answer each question.</b>]]></rubric>
+
+
+<feedback>
+<correct><![CDATA[That's right! Well done!!]]></correct>
+<wrong1><![CDATA[Oh no! That's not correct. Try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's incorrect.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Superb!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+<question1>
+<text><![CDATA[<B>The intestines are a part of the ________________.</B>]]></text>
+<option1><![CDATA[<b>nervous system</b>]]></option1>
+<option2><![CDATA[<b>skeletal system</b>]]></option2>
+<option3><![CDATA[<b>digestive system</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question1>
+
+
+<question2>
+<text><![CDATA[<B>The intestines transport the waste material to the __________.</B>]]></text>
+<option1><![CDATA[<b>stomach</b>]]></option1>
+<option2><![CDATA[<b>anus</b>]]></option2>
+<option3><![CDATA[<b>liver</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question2>
+
+<question3>
+<text><![CDATA[<B>The large intestine is _________ than the small intestine.</B>]]></text>
+<option1><![CDATA[<b>wider</b>]]></option1>
+<option2><![CDATA[<b>longer</b>]]></option2>
+<option3><![CDATA[<b>harder</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[<B>The heart pumps __________ around the body.</B>]]></text>
+<option1><![CDATA[<b>food</b>]]></option1>
+<option2><![CDATA[<b>messages</b>]]></option2>
+<option3><![CDATA[<b>blood</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[<B>The human body has __________ 600 muscles.</B>]]></text>
+<option1><![CDATA[<b>more than</b>]]></option1>
+<option2><![CDATA[<b>less than</b>]]></option2>
+<option3><![CDATA[<b>exactly</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question5>
+
+<question6>
+<text><![CDATA[<B>It takes __________ muscles to smile.</B>]]></text>
+<option1><![CDATA[<b>10</b>]]></option1>
+<option2><![CDATA[<b>12</b>]]></option2>
+<option3><![CDATA[<b>17</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question6>
+
+
+
+
+
+</data>
+</framexml>  

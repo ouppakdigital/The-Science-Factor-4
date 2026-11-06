@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<B>Heart</B>]]></heading>
+
+
+<text><![CDATA[The heart is a muscle. It pumps blood around the body.]]></text>
+<text><![CDATA[The blood carries oxygen which the body needs in order to survive.]]></text>
+<text><![CDATA[The heart is about the size of the fist.]]></text>
+<text><![CDATA[The human heart beats about 70 times a minute which is just over 1 beat per second. It beats about thirty-seven million times a year!]]></text>
+<text><![CDATA[The heart is divided into four chambers: the left atrium, the right atrium, the left ventricle, and the right ventricle.]]></text>
+<text><![CDATA[Oxygen-rich blood flows from the left atrium into the left ventricle and then around the body.]]></text>
+<text><![CDATA[From the body, blood  without oxygen flows  into the right atrium. From the right atrium into the right ventricle and then to the lungs where it receives oxygen.]]></text>
+
+<lable><![CDATA[<B>left atrium</B>]]></lable>
+<lable><![CDATA[<B>right atrium</B>]]></lable>
+<lable><![CDATA[<B>left ventricle</B>]]></lable>
+<lable><![CDATA[<B>right ventricle</B>]]></lable>
+
+</data>
+</framexml>  

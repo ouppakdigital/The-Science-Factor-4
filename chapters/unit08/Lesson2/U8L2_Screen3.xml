@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>+
+
+<titel><![CDATA[<b>Unit 8: Force, tools, and machines</b>]]></titel>
+<titel><![CDATA[<b>Simple machines</b>]]></titel>
+
+<rubric><![CDATA[<b>Click the correct option.</b>]]></rubric>
+
+
+<question1>
+<text><![CDATA[1.]]></text>
+<text><![CDATA[A wheelbarrow is a type of __________________.]]></text>
+<option1><![CDATA[<b>pulley</b>]]></option1>
+<option2><![CDATA[<b>lever</b>]]></option2>
+<option3><![CDATA[<b>wedge</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question1>
+
+
+<question2>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[A/an __________________ is used to move objects from a lower level to an upper level.]]></text>
+<option1><![CDATA[<b>lever</b>]]></option1>
+<option2><![CDATA[<b>wedge</b>]]></option2>
+<option3><![CDATA[<b>inclined plane</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question2>
+
+<question3>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[A __________________ has a wheel with a rope or chain wrapped around it.]]></text>
+<option1><![CDATA[<b>wedge</b>]]></option1>
+<option2><![CDATA[<b>wheel and axle</b>]]></option2>
+<option3><![CDATA[<b>pulley</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[A __________________ is used to hold objects in place.]]></text>
+<option1><![CDATA[<b>screw</b>]]></option1>
+<option2><![CDATA[<b>wedge</b>]]></option2>
+<option3><![CDATA[<b>pulley</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[A __________________ is a wedge that cuts wood.]]></text>
+<option1><![CDATA[<b>screw</b>]]></option1>
+<option2><![CDATA[<b>lever</b>]]></option2>
+<option3><![CDATA[<b>chisel</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question5>
+
+
+
+<feedback>
+<correct><![CDATA[That's correct! Great work!]]></correct>
+<wrong1><![CDATA[Oops, that's not correct! Try again.]]></wrong1>
+<wrong2><![CDATA[Oh no! That's not correct.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! You are marvellous!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+
+</feedback>
+
+
+
+</data>
+</framexml>  

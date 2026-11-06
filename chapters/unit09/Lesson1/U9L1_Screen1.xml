@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 9: Electricity and magnetism</b>]]></title>
+<title><![CDATA[<b>Electricity</b>]]></title>
+
+<rubric><![CDATA[<b>Electricity</b>]]></rubric>
+<rubric><![CDATA[<b>shared electrons</b>]]></rubric>
+
+<btn><![CDATA[<b>Electricity</b>]]></btn>
+<btn><![CDATA[<b>Current</b>]]></btn>
+<btn><![CDATA[<b>Static</b>]]></btn>
+
+
+
+<text><![CDATA[Electricity is a form of energy produced by the movement of electrons.]]></text>
+<text><![CDATA[Electrons orbit the nucleus of an atom in the same way that planets in the solar system orbit the Sun.]]></text>
+
+
+</data>
+</framexml>  

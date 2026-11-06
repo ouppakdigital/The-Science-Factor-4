@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<rubric><![CDATA[<b>Drag and drop the correct word into the blank space to complete the sentence.</b>]]></rubric>
+
+<text><![CDATA[1.]]></text>
+<text><![CDATA[_______________ resources will not run out.]]></text>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[Iron-ore is a  _______________ resource.]]></text>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[Humans use _______________ for washing, drinking, and transport.]]></text>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[Besides food and shelter, trees are also used for making _______________.]]></text>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[Petrol, coal, and silver are _______________ resources.]]></text>
+
+<Drag><![CDATA[<B>renewable</B>]]></Drag>
+<Drag><![CDATA[<B>non-renewable</B>]]></Drag>
+<Drag><![CDATA[<B>water</B>]]></Drag>
+<Drag><![CDATA[<B>medicine</B>]]></Drag>
+<Drag><![CDATA[<B>mineral</B>]]></Drag>
+
+
+<answer><![CDATA[<B>renewable</B>]]></answer>
+<answer><![CDATA[<B>non-renewable</B>]]></answer>
+<answer><![CDATA[<B>water</B>]]></answer>
+<answer><![CDATA[<B>medicine</B>]]></answer>
+<answer><![CDATA[<B>mineral</B>]]></answer>
+<answer><![CDATA[<B>Renewable</B>]]></answer>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong1><![CDATA[Oops! That's incorrect. Try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's wrong too.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was indeed great!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+</data>
+</framexml>  
